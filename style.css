@@ -1,0 +1,97 @@
+body {
+  font-family: "Catamaran", sans-serif;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.top-banner {
+  /* background-image: url(bg1.webp); */
+  padding: 60px;
+  display: flex;
+  margin-bottom: 100px;
+}
+.text h4 {
+  color: aqua;
+}
+.img-size img {
+  width: 100%;
+}
+.text {
+  width: 100%;
+  color: black;
+}
+.button {
+  color: aqua;
+}
+.btn {
+  text-decoration: none;
+  padding: 10px 30px;
+  color: white;
+  background-image: linear-gradient(rgb(212, 109, 161), rgb(102, 237, 237));
+  border-radius: 5px;
+  font-weight: 600;
+}
+.speciality {
+  /* background-image: url(bg1.webp); */
+  display: inline-block;
+  display: flex;
+}
+
+.image img {
+  width: 60%;
+  margin-left: 150px;
+}
+.image-title {
+  color: black;
+}
+.image-title p {
+  margin-right: 200px;
+}
+.header {
+  text-align: center;
+  color: aqua;
+  margin-bottom: 90px;
+}
+
+/* speciality2 */
+.speciality2 {
+  /* display: inline-block; */
+  display: flex;
+  margin-top: 150px;
+}
+/* .image img {
+  width: 60%;
+  margin-left: 200px;
+} */
+.image-title2 {
+  color: black;
+  margin-left: 150px;
+}
+
+.header {
+  text-align: center;
+  color: aqua;
+  /* margin-bottom: 90px; */
+}
+.img-size2 img {
+  width: 70%;
+  margin-right: 30px;
+}
+
+/* forth */
+.speciality3 {
+  /* display: inline-block; */
+  display: flex;
+  margin-top: 150px;
+}
+.image2 img {
+  width: 50%;
+  margin-left: 150px;
+}
+.image-title3 {
+  color: black;
+  margin-left: 0px;
+}
+footer {
+  text-align: center;
+}
