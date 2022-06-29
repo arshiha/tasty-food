@@ -92,6 +92,72 @@ body {
   color: black;
   margin-left: 0px;
 }
+/* footer {
+  text-align: center;
+} */
+
+/* food */
+/* section {
+  width: 100%;
+  min-width: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  line-height: 1.5;
+} */
+a {
+  text-decoration: none;
+  margin: auto;
+}
+.container {
+  width: 1100px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.card {
+  /* border: 1px solid gray; */
+  height: 400px;
+  background-color: black;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 4);
+  flex: 1 1 21rem;
+  margin: 10px 20px;
+  border-radius: 5px;
+}
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 40px;
+}
+/* .btn {
+  margin-right: 20px;
+} */
+.card h4 {
+  color: white;
+  text-align: center;
+  color: aqua;
+}
+.card p {
+  color: white;
+  padding-left: 10px;
+}
+
+.header {
+  color: hotpink;
+  text-align: center;
+  margin-top: 200px;
+  font-size: 30px;
+}
 footer {
   text-align: center;
 }
+.btn-style {
+  text-align: center;
+}
+
